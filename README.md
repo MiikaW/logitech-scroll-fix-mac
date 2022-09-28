@@ -1,5 +1,5 @@
 # logitech-scroll-fix-mac
-a Script that quickly, but temporarily fixes scrolling issues on Macs with arm processors.
+A script that quickly, but temporarily fixes scrolling issues on Macs with arm processors.
 
 ## Usage
 
